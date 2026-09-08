@@ -46,3 +46,9 @@ O projeto pode ser utilizado para registrar conteúdos, informações e atividad
 * GitHub
 * Markdown
 
+
+
+\## Aprendizados
+
+Durante o desenvolvimento da atividade, os integrantes praticaram a criação de repositórios, clonagem, commits, sincronização com o GitHub e colaboração em equipe.
+
