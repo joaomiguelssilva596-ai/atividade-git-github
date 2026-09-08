@@ -24,3 +24,7 @@ Gabriel Rodrigues
 
 Praticar o uso do Git e do GitHub em equipe: criar commits, controlar versões e colaborar em um repositório compartilhado.
 
+
+
+Primeiro commit
+
