@@ -28,3 +28,8 @@ Praticar o uso do Git e do GitHub em equipe: criar commits, controlar versões e
 
 Primeiro commit
 
+
+
+\## Organização do projeto
+O projeto será desenvolvido de forma colaborativa, utilizando o Git para registrar as alterações e o GitHub para compartilhar o histórico de desenvolvimento entre os integrantes.
+
