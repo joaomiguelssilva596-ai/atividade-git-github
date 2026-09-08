@@ -38,3 +38,11 @@ O projeto será desenvolvido de forma colaborativa, utilizando o Git para regist
 \## Como utilizar
 O projeto pode ser utilizado para registrar conteúdos, informações e atividades relacionadas aos estudos de Engenharia de Software.
 
+
+
+\## Tecnologias utilizadas
+
+* Git
+* GitHub
+* Markdown
+
