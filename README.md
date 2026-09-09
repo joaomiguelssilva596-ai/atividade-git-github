@@ -30,5 +30,26 @@ Primeiro commit
 
 
 
-Segundo commit
+
+\## Organização do projeto
+O projeto será desenvolvido de forma colaborativa, utilizando o Git para registrar as alterações e o GitHub para compartilhar o histórico de desenvolvimento entre os integrantes.
+
+
+
+\## Como utilizar
+O projeto pode ser utilizado para registrar conteúdos, informações e atividades relacionadas aos estudos de Engenharia de Software.
+
+
+
+\## Tecnologias utilizadas
+
+* Git
+* GitHub
+* Markdown
+
+
+
+\## Aprendizados
+
+Durante o desenvolvimento da atividade, os integrantes praticaram a criação de repositórios, clonagem, commits, sincronização com o GitHub e colaboração em equipe.
 
